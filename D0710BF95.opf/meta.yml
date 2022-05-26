@@ -1,0 +1,22 @@
+id: D0710BF95
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-11-12T09:34:01+00:00'
+last_modified: '2022-05-26T06:06:39.164260+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    6f84:
+      image_group_id: I1PD95846
+      title: བསྟོད་པ་ལས་འདས་པར་བསྟོད་པ།
+      total_pages: 1539
+      order: 1
+      base_file: 6f84.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
